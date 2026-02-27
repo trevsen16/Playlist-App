@@ -1,0 +1,17 @@
+{
+    "Playlist": "Top Songs",
+    "Songs": [
+        {
+            "artist": "Eagles",
+            "name": "Hotel California",
+            "genre": "Rock",
+            "length": 150
+        },
+        {
+            "artist": "AC/DC",
+            "name": "Back in Black",
+            "genre": "Rock",
+            "length": 250
+        }
+    ]
+}
